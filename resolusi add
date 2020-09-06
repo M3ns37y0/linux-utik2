@@ -1,0 +1,7 @@
+cvt 1600 900
+cypy modelinenya
+sudo xrandr --newmode "modelinenya "
+sudo xrandr --addmode typemodel "resolusi barunya"
+
+gedit ~/.profile
+tmbhkn newmode dan addmode-nya
